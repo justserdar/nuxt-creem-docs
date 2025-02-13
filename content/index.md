@@ -18,12 +18,14 @@ orientation: horizontal
   :::
 
 #title
-Grow your SaaS without the squeeze using Creem.io
+Seamless Creem.io API Integration with Nuxt
 
 #description
+This **Nuxt module** provides an easy way to integrate **Creem.io** into your Nuxt application. It utilizes the official **Creem.io API** for server-side operations and a streamlined client-side implementation for seamless integration.
 
-A smoother Merchant of Record with transparent billing and better fees.
-Creem is the payment partner you always deserved, we strive for simplicity and straightforwardness on our APIs.
+<br />
+
+Built by [JustSerdar](https://github.com/justserdar){target="_blank"} from the **Nuxt & Nitro Community**, for the **Communities**.
 
 #links
   :::u-button
@@ -48,13 +50,13 @@ Creem is the payment partner you always deserved, we strive for simplicity and s
   :::
 ::
 
-
 ::u-page-section
+
 #title
-Nuxt X Creem: Seamless Integration
+Nuxt X Creem.io: Seamless Integration
 
 #description
-Combine the power of Nuxt with Creem's robust payment solutions to enhance your SaaS offerings. Enjoy transparent billing, better fees, and a smoother Merchant of Record experience.
+Combine the power of Nuxt with Creem.io's robust payment solutions to enhance your SaaS offerings. Enjoy transparent billing, better fees, and a smoother Merchant of Record experience. The module wraps Creem.io API, so you can focus on building your SaaS.
 
 #links
   :::u-button

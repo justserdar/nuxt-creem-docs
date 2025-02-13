@@ -14,7 +14,7 @@ export default defineAppConfig({
     }
   },
   seo: {
-    siteName: 'Nuxt UI Pro - Docs template'
+    siteName: 'Nuxt Creem Module Docs'
   },
   header: {
     title: '',
@@ -28,7 +28,7 @@ export default defineAppConfig({
     colorMode: true,
     links: [{
       'icon': 'i-simple-icons-github',
-      'to': 'https://github.com/nuxt-ui-pro/docs/tree/v3',
+      'to': 'https://github.com/justserdar/nuxt-creem',
       'target': '_blank',
       'aria-label': 'GitHub'
     }]
@@ -48,34 +48,34 @@ export default defineAppConfig({
       'aria-label': 'Nuxt UI on Discord'
     }, {
       'icon': 'i-simple-icons-x',
-      'to': 'https://x.com/nuxt_js',
+      'to': 'https://x.com/darwebdb',
       'target': '_blank',
-      'aria-label': 'Nuxt on X'
+      'aria-label': 'JustSerdar on X'
     }, {
       'icon': 'i-simple-icons-github',
-      'to': 'https://github.com/nuxt/ui',
+      'to': 'https://github.com/justserdar/nuxt-creem',
       'target': '_blank',
-      'aria-label': 'Nuxt UI on GitHub'
+      'aria-label': 'Nuxt Creem Module on GitHub'
     }]
   },
   toc: {
     title: 'Table of Contents',
     bottom: {
       title: 'Community',
-      edit: 'https://github.com/nuxt-ui-pro/docs/edit/v3/content',
+      edit: 'https://github.com/justserdar/nuxt-creem-docs/edit/main/content',
       links: [{
         icon: 'i-lucide-star',
         label: 'Star on GitHub',
-        to: 'https://github.com/nuxt/ui',
+        to: 'https://github.com/justserdar/nuxt-creem',
         target: '_blank'
       }, {
         icon: 'i-lucide-book-open',
-        label: 'Nuxt UI Pro docs',
-        to: 'https://ui3.nuxt.dev/getting-started/installation/pro/nuxt',
+        label: 'Nuxt Creem Module docs',
+        to: 'https://github.com/justserdar/nuxt-creem',
         target: '_blank'
       }, {
         icon: 'i-simple-icons-nuxtdotjs',
-        label: 'Purchase a license',
+        label: 'Purchase a Nuxt UI Pro license',
         to: 'https://ui.nuxt.com/pro/purchase',
         target: '_blank'
       }]
